@@ -10,7 +10,7 @@ spec:
   sourceFormat: unstructured
   git:
     # If you fork this repo, change the url to point to your fork
-    repo: https://github.com/janetkuo/csmr-examples.git
+    repo: https://github.com/haiyanmeng/csmr-example-clone.git
     # If you move the configs to a different branch, update the branch here
     branch: main
     dir: multirepo/namespaces/gamestore

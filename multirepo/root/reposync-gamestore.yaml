@@ -10,12 +10,12 @@ spec:
   sourceFormat: unstructured
   git:
     # If you fork this repo, change the url to point to your fork
-    # repo: https://github.com/haiyanmeng/csmr-example-clone.git
-    repo: https://github.com/haiyanmeng/csmr-sample.git
+    repo: https://github.com/haiyanmeng/csmr-example-clone.git
+    #repo: https://github.com/haiyanmeng/csmr-sample.git
     # If you move the configs to a different branch, update the branch here
     branch: main
-    # dir: multirepo/namespaces/gamestore
-    dir: "empty"
+    dir: multirepo/namespaces/gamestore
+    # dir: "empty"
     # We recommend securing your source repository.
     # Other supported auth: `ssh`, `cookiefile`, `token`, `gcenode`.
     auth: none
